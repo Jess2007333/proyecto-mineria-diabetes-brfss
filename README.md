@@ -1,6 +1,6 @@
 # Predicción del riesgo de diabetes (BRFSS 2015) – Proyecto de aula, Minería de Datos (CUC)
 
-Autores: Jesús Alberto Vargas España, Santiago Patiño Arzayus, Duván Andrés Arzuza Carrascal.
+Autores: Jesús Alberto Vargas España
 
 Clasificación supervisada (Gradient Boosting y comparación con 4 modelos y una línea base) y segmentación con K-Means sobre *Diabetes Health Indicators* (versión 50/50). Herramienta **académica**: no sustituye una valoración profesional.
 
